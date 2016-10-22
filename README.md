@@ -19,7 +19,7 @@ The Report and the Guidelines can be found on these links:
 
 ## Objetivos
 
-**Utilizando o interpretador de comandos elementar descrito em sala de aula, implementar as seguintes funcionalidades:
+**Utilizando o interpretador de comandos elementar descrito em sala de aula, implementar as seguintes funcionalidades:**
 
 1. Permitir que os comandos executados recebam argumentos. Deve ser possível, por exemplo, executar o comando: <br>
   > kill -9 pid
@@ -30,7 +30,7 @@ The Report and the Guidelines can be found on these links:
 
 ## Entregas
 
-**Você deve entregar:
+**Você deve entregar:**
 
 • O código do seu interpretador de comandos. <br>
 • Um breve relatório descrevendo como você implementou cada uma das funcionalidades pedidas e quais as diﬁculdades encontradas. A descrição da implementação deve obrigatoriamente listar e descrever quais serviços do sistema operacional foram usados para implementar cada funcionalidade e como eles foram usados. <br>
