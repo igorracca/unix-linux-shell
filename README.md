@@ -28,7 +28,7 @@ The Report and the Guidelines can be found on these links:
   `> gnome-calculator &` <br>
   `> gedit file.txt` <br>
 3. Fazer redireção da entrada e saída padrão, para permitir que um programa leia e escreva em um arquivo como a sua entrada e saída padrão. Deve ser usada a sintaxe padrão do interpretador Unix: < para redirecionar a entrada padrão e > para redirecionar a saída padrão. Deve ser possível, por exemplo, executar os comandos: <br>
-  `> ls > arquivos.txt > sort -r < arquivos.txt` <br>
+  `> ps > arquivos.txt >` <br>
   `sort -r < arquivos.txt` <br>
 
 ## Entregas
