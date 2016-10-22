@@ -22,11 +22,14 @@ The Report and the Guidelines can be found on these links:
 **Utilizando o interpretador de comandos elementar descrito em sala de aula, implementar as seguintes funcionalidades:**
 
 1. Permitir que os comandos executados recebam argumentos. Deve ser possível, por exemplo, executar o comando: <br>
-  > kill -9 pid
+  `> kill -9 pid` <br>
+  `> ls -l` <br>
 2. Adicionar suporte para executar comandos em segundo plano. Deve ser usanda a sintaxe padrão do interpretador Unix: &. Deve ser possível, por exemplo, executar o comando: <br>
-  > gnome-calculator &
+  `> gnome-calculator &` <br>
+  `> gedit file.txt` <br>
 3. Fazer redireção da entrada e saída padrão, para permitir que um programa leia e escreva em um arquivo como a sua entrada e saída padrão. Deve ser usada a sintaxe padrão do interpretador Unix: < para redirecionar a entrada padrão e > para redirecionar a saída padrão. Deve ser possível, por exemplo, executar os comandos: <br>
-  > ls > arquivos.txt > sort -r < arquivos.txt
+  `> ls > arquivos.txt > sort -r < arquivos.txt` <br>
+  `sort -r < arquivos.txt` <br>
 
 ## Entregas
 
